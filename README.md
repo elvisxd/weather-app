@@ -1,6 +1,6 @@
 # weather-app
 weather app in react + vite  working 
-live preview https://elvisxd.github.io/weather-app/
+live preview https://weather-app-one-sepia-34.vercel.app/
 
 
 <div align="center">
